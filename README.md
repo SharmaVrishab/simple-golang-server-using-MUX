@@ -1,4 +1,4 @@
-# simple-golang-server
+# simple-golang-server-using-MUX
 # Golang HTTP Server
 
 This is a simple HTTP server written in Go that serves static files and handles form submissions.
